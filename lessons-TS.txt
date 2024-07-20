@@ -1,0 +1,44 @@
+1-  TS intro
+2-  install TS and transpiling
+3-  create [tsconfig.json] file
+4-  static vs dynamic type languages
+5-  [type annotations] [type signature] [type any]		=>> dataType
+6-  [type annotations] [type signature] [type any] with arrays
+7-  [type annotations] [type signature] [type any] with multidimensional arrays
+8-  [type annotations] [type signature] [type any] with functions
+
+9-  function: [optional operator] for [optional parameter] & [default value]
+10- function: rest parameter
+11- [type annotations] [type signature] [type any] with [anonymousfunction], [arrow function]
+
+12- dataType  [alias type] [type alias]				[type stOrNum = string|number;]
+13- dataType  [alias type] [type alias] [advanced]		[type buttons = {up: string, right: string};]
+14- dataType  [literal type]					[type nums = 0|1|-1]
+15- dataType  [tuple]			article1: readonly [] = []
+16- dataType  [void and never]
+17- dataType  [Enum] [part 1]
+18- dataType  [Enum] [part 2]
+19- dataType  [assertion type]
+20- dataType  [union operator] [intersection operator] & [union type] [intersection type]
+21- dataType  [type annotations] with [object]		[readonly] and [?][optional operator] attributes
+							=>> comapre to lesson [15], [13]
+
+22- interface declaration
+23- interface: [methods and properties]
+24- interface reopen
+25- interface extends
+26- interface: final discussion
+
+27- class with type annotations
+28- class: [access modifiers] and [type annotations]
+29- class: [set], [get] accessors
+30- class: static members		[name, length, call]	=>> built-in properties
+31- class: =>> implements interfac	=>> compare [interface] [class] [object]  =>> very important
+
+32- [abstract class]
+33- polymorphism and method override		=>> compare to lesson [32]
+34- Generics introduction
+35- Generics: multiple types
+36- Generics: classes
+37- Generics and interfaces
+38- the end and how to master typescript

@@ -1,0 +1,33 @@
+* assignment_1_11:
+	* assignment_1	=>> Done
+	* assignment_2	=>> Done
+	* assignment_3	=>> Done
+	* assignment_4	=>> Done
+	* assignment_5	=>> Done
+	* assignment_6	=>> Done
+	* assignment_7	=>> Done
+	* assignment_8	=>> Done
+
+* assignment_12_21
+	* assignment_1	=>> Done
+	* assignment_2	=>> Done
+	* assignment_3	=>> Done
+	* assignment_4	=>> Done
+	* assignment_5	=>> Done
+	* assignment_6	=>> Done
+	* assignment_7	=>> Done
+	* assignment_8	=>> Done
+
+* assignment_22_31
+	* assignment_1	=>> Done
+	* assignment_2	=>> Done
+	* assignment_3	=>> Done
+	* assignment_4	=>> Done
+	* assignment_5	=>> Done
+	* assignment_6	=>> Done
+	* assignment_7	=>> Done
+
+* assignment_32_38
+	* assignment_1	=>> Done
+	* assignment_2	=>> Done  =>> what a hard an assignment
+	* assignment_3	=>> Done
