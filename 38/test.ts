@@ -5,4 +5,3 @@
         [3] JSDocs
         [4] TSconfig
 */
-

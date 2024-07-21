@@ -1,3 +1,0 @@
-/*
-    * Generics and interfaces:
-*/

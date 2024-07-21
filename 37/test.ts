@@ -1,5 +1,5 @@
 /*
-    * Generics and interfaces:
+    * Generics: with [interfaces]:
 */
 
 interface Book {

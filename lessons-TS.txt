@@ -37,8 +37,8 @@
 
 32- [abstract class]
 33- polymorphism and method override		=>> compare to lesson [32]
-34- Generics introduction
-35- Generics: multiple types
-36- Generics: classes
+34- Generics: [introduction]
+35- Generics: [arrow function] [multiple types]
+36- Generics: [classes]
 37- Generics and interfaces
 38- the end and how to master typescript
